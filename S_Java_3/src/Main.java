@@ -19,5 +19,6 @@ public class Main {
 		while (while_i < 10) {
 			System.out.print(while_i++);
 		}
+		
 	}
 }
