@@ -10,5 +10,14 @@ public class Main {
 			}
 			System.out.println();
 		}
+		
+		System.out.println();
+		
+		// [while]
+		int while_i = 0;
+				
+		while (while_i < 10) {
+			System.out.print(while_i++);
+		}
 	}
 }
