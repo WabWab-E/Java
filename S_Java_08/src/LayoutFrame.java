@@ -17,11 +17,11 @@ public class LayoutFrame extends Frame{
 //		setLayout(borderLayout);
 		setLayout(new BorderLayout());
 		
-		Button eastBtn = new Button("µø");
-		Button westBtn = new Button("º≠");
-		Button southBtn = new Button("≥≤");
-		Button northBtn = new Button("∫œ");
-		Button centerBtn = new Button("∞°øÓµ•");
+		Button eastBtn = new Button("Îèô");
+		Button westBtn = new Button("ÏÑú");
+		Button southBtn = new Button("ÎÇ®");
+		Button northBtn = new Button("Î∂Å");
+		Button centerBtn = new Button("Í∞ÄÏö¥Îç∞");
 		
 		add(centerBtn, BorderLayout.CENTER);
 		add(eastBtn, BorderLayout.EAST);
